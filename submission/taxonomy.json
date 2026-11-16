@@ -1,12 +1,14 @@
 {
-  "version": "v0",
+  "version": "v1.0",
   "ignore_class": "ignore_region",
   "classes": [
-    {"name": "car", "definition": "Ô tô con, SUV."},
-    {"name": "truck", "definition": "Xe tải, xe có thùng hàng riêng."},
-    {"name": "van", "definition": "Xe thùng kín cỡ nhỏ."},
-    {"name": "motorcycle", "definition": "Xe máy, mô tô."},
-    {"name": "person", "definition": "Người đi bộ hoặc người ngồi trên xe."},
+    {"name": "car", "definition": "Ô tô con từ 4–9 chỗ, sedan, SUV, hatchback."},
+    {"name": "truck", "definition": "Xe tải chở hàng, xe đầu kéo, xe có cabin và thùng hàng riêng biệt."},
+    {"name": "van", "definition": "Xe thùng kín liền khối cỡ nhỏ/vừa chở người hoặc hàng hóa."},
+    {"name": "bus", "definition": "Xe buýt chở khách công cộng cỡ lớn từ 17 chỗ trở lên."},
+    {"name": "tuk_tuk", "definition": "Xe ba bánh cơ giới chở khách phổ biến ở Đông Nam Á và Nam Á (auto rickshaw)."},
+    {"name": "motorcycle", "definition": "Xe hai bánh gắn động cơ cơ giới (xe máy, mô tô, xe tay ga). Không gồm xe đạp hay xích lô đạp."},
+    {"name": "person", "definition": "Con người thật (người đi bộ, người lái xe, hành khách). Không gồm tượng, ma-nơ-canh, ảnh in."},
     {"name": "ignore_region", "definition": "Vùng bỏ qua (không phải vật): nơi không gán từng vật, bỏ sót ở đây không tính là lỗi."}
   ],
   "attributes": [
