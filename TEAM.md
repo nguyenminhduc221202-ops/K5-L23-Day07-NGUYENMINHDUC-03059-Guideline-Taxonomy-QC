@@ -1,10 +1,10 @@
 # Thông tin nhóm
 
-- Tên nhóm:
-- Mã thành viên (ba chữ số):
-- Người điều phối:
-- Người review bản cuối:
-- Commit chốt bài (điền ở kênh nộp sau khi commit):
+- Tên nhóm: K5-L23-Nhom3-GuidelineQC
+- Mã thành viên (ba chữ số): 029, 048, 059, 038, 045
+- Người điều phối: 029
+- Người review bản cuối: 059
+- Commit chốt bài (điền ở kênh nộp sau khi commit):048
 
 ## Kết quả tóm tắt (điền cuối bài)
 
