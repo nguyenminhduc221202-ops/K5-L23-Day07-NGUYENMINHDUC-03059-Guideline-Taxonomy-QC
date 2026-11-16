@@ -6,7 +6,7 @@
 
 ## 1. Mục tiêu
 
-Bộ nhãn bounding box 2D này phục vụ [mục đích / mô hình sử dụng] trong [bối cảnh]. Nếu bỏ sót hoặc gán nhầm [đối tượng quan trọng], hệ thống có thể [hậu quả cụ thể].
+Bộ nhãn bounding box 2D này phục vụ huấn luyện và đánh giá mô hình phát hiện người và phương tiện trong ảnh đường phố. Bỏ sót người hoặc phương tiện, hay gán sai lớp, có thể làm giảm độ tin cậy của mô hình và ảnh hưởng đến các ứng dụng phân tích giao thông sử dụng kết quả phát hiện.
 
 ## 2. Lớp và thuộc tính
 
