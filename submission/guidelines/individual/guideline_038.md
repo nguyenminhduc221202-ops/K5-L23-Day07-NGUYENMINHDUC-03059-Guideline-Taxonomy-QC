@@ -2,7 +2,7 @@
 
 - Phiên bản: `v0.1-draft` (theo taxonomy `v1.0`)
 - Ngày: 2026-11-16
-- Người viết / duyệt: Thành viên 038 / reviewer cuối 059
+- Người viết / duyệt: Nguyễn Thành Tài 038 / reviewer cuối 059
 
 ## 1. Mục tiêu
 
