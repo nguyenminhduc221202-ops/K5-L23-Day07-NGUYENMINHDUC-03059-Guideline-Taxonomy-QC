@@ -24,13 +24,13 @@ Tài liệu này xác lập đặc tả kỹ thuật gán nhãn bounding box 2D 
 
 | Lớp | Định nghĩa (một câu) | Ví dụ thực tế từ bộ ảnh | Phản ví dụ / Dễ nhầm với |
 |---|---|---|---|
-| `car` | Xe ô tô con từ 4 đến 9 chỗ ngồi chở người (sedan, SUV, hatchback, taxi). | Xe ô tô lưu thông (`img_024.jpg`, `img_040.jpg`). | Xe bán tải lớn hở thùng (thuộc `truck`), xe mô hình đồ chơi (`img_038.jpg`). |
-| `truck` | Xe tải chở hàng, xe đầu kéo kéo rơ-moóc, xe chuyên dụng chở phương tiện. | Xe chuyên chở ô tô (`img_002.jpg`), xe tải nhỏ giao hàng (`img_036.jpg`). | Tượng xe bán tải bằng đá hoa cương (`img_027.jpg`), xe tuk-tuk (`img_004.jpg`). |
+| `car` | Xe ô tô con từ 4 đến 9 chỗ ngồi chở người (sedan, SUV, hatchback, taxi). | Xe ô tô lưu thông (`img_024.jpg`, `img_040.jpg`). | Xe bán tải lớn hở thùng (thuộc `truck`), xe mô hình đồ chơi trong tủ kính (`img_038.jpg` — **tuyệt đối KHÔNG gán**). |
+| `truck` | Xe tải chở hàng, xe đầu kéo kéo rơ-moóc, xe chuyên dụng chở phương tiện. | Xe chuyên chở ô tô (`img_002.jpg`), xe tải nhỏ giao hàng (`img_036.jpg`). | Xe van thùng kín cỡ nhỏ (thuộc `van`), xe buýt khách lớn (thuộc `bus`), tượng xe bán tải bằng đá (`img_027.jpg` — không gán). |
 | `van` | Xe ô tô thân kín liền khối cỡ nhỏ/vừa có khoang lái liền khoang hàng/khoang khách. | Xe van giao hàng bưu chính (`img_005.jpg`). | Xe buýt lớn chở khách công cộng, xe con 7 chỗ. |
 | `bus` | Xe ô tô khách cỡ lớn từ 17 chỗ ngồi trở lên phục vụ vận tải công cộng hoặc du lịch. | Xe buýt công cộng (`img_009.jpg`, `img_031.jpg`). | Xe van cỡ nhỏ, xe tải thùng kín. |
 | `tuk_tuk` | Xe ba bánh gắn động cơ cơ giới chở khách/hàng nhẹ (auto rickshaw). | Xe ba bánh tuk-tuk (`img_004.jpg`, `img_035.jpg`). | Xe mô tô hai bánh (`motorcycle`), xe xích lô đạp chân (`img_006.jpg`). |
 | `motorcycle` | Xe hai bánh gắn động cơ cơ giới (xe máy số, xe tay ga, mô tô phân khối lớn). | Xe máy di chuyển trên đường (`img_005.jpg`, `img_008.jpg`, `img_026.jpg`). | Xe đạp không động cơ, xe xích lô đạp chân (`img_006.jpg`, `img_009.jpg`). |
-| `person` | Con người sinh học bằng xương bằng thịt còn sống (người đi bộ, người lái xe, hành khách). | Người đi bộ qua đường (`img_014.jpg`), người điều khiển xe máy (`img_026.jpg`). | Tượng danh nhân (`img_017.jpg`), ma-nơ-canh (`img_033.jpg`), hình người in trên pano quảng cáo (`img_018.jpg`). |
+| `person` | Con người sinh học bằng xương bằng thịt còn sống (người đi bộ, người lái xe, hành khách). | Người đi bộ qua đường (`img_014.jpg`), người điều khiển xe máy (`img_026.jpg`). | Tượng danh nhân (`img_017.jpg` — không gán), ma-nơ-canh trong cửa hàng thời trang (`img_033.jpg` — **tuyệt đối KHÔNG gán**), hình dán, tranh in 2D trên biển pano quảng cáo (`img_018.jpg` — **tuyệt đối KHÔNG gán**). |
 | `ignore_region` | Vùng hình chữ nhật bao phủ khu vực quá đông đúc, mờ nhòe do mưa/chuyển động hoặc vật nhỏ dưới 20 px. | Cụm người xe ở phía xa bờ biển (`img_025.jpg`), cụm mờ nhòe trong mưa (`img_015.jpg`). | Đối tượng rõ nét, kích thước đủ lớn ở tiền cảnh. |
 
 *Xử lý ca ngoài taxonomy:*
@@ -62,12 +62,13 @@ Tài liệu này xác lập đặc tả kỹ thuật gán nhãn bounding box 2D 
 4. **Hàng hóa chở cồng kềnh / Quá khổ (`img_035.jpg`, `img_029.jpg`):**
    - **Quy tắc của 059:** Bounding box của phương tiện phải **kéo rộng bao trùm toàn bộ cả thân xe lẫn khối hàng hóa/bao tải** chất trên nóc và hai bên.
    - *Lý do:* Hệ thống tự hành cần biết ranh giới không gian chiếm dụng thực tế (Spatial Occupancy) để giữ khoảng cách an toàn, tránh va quẹt vào khối hàng nhô ra ngoài.
-5. **Vật thể phi thực thể (Tượng, Ma-nơ-canh, Tranh ảnh, Phản chiếu):**
-   - **Tuyệt đối không gán:**
+5. **Vật thể phi thực thể (Tượng, Ma-nơ-canh, Tranh ảnh, Hình dán/Decal, Phản chiếu, Đồ chơi):**
+   - **Tuyệt đối KHÔNG gán:**
+     - Hình dán (sticker), decal trang trí, tranh vẽ 2D, ảnh in trên pano quảng cáo (`img_018.jpg`) dán trên tường, xe cộ hay biển hiệu.
+     - Ma-nơ-canh quần áo trưng bày trong cửa hàng (`img_033.jpg`).
+     - Xe mô hình đồ chơi, búp bê trưng bày trong tủ kính (`img_038.jpg`).
      - Tượng đài nghệ thuật danh nhân (`img_017.jpg`).
      - Tượng xe bán tải bằng đá (`img_027.jpg`).
-     - Ma-nơ-canh quần áo trong cửa hàng (`img_033.jpg`).
-     - Ảnh người/xe trên biển quảng cáo pano (`img_018.jpg`).
      - Ảnh phản chiếu của người/xe qua gương chiếu hậu (`img_020.jpg`).
 6. **Ngưỡng kích thước tối thiểu:**
    - Chiều cao $< 20\text{ px}$: Bỏ qua không gán hoặc gom vào `ignore_region` nếu là đám đông dày đặc ở xa.
@@ -81,9 +82,11 @@ Tài liệu này xác lập đặc tả kỹ thuật gán nhãn bounding box 2D 
 | `img_002.jpg` | Xe tải Renault chở 8 ô tô con hai tầng sàn | R-01 | Chỉ gán **1 box `truck` to** bao toàn bộ | Các xe con là hàng hóa tĩnh trên sàn xe tải. Gán rời 8 xe con sẽ làm mô hình hiểu sai là có 8 xe đang chạy độc lập trên đường. | Quyết định cá nhân |
 | `img_035.jpg` | Xe tuk-tuk chở đống bao tải ngập ngụa trên nóc | R-03 | Gán 1 box `tuk_tuk` **bao cả xe lẫn bao tải** | Khối hàng chuyển động cùng xe tạo thành thể tích chiếm dụng thực tế, bắt buộc bao trùm để tránh va quẹt. | Quyết định cá nhân |
 | `img_017.jpg` | Tượng đá Wellington cưỡi ngựa đội nón giao thông | R-02 | **Không gán box nào** (0 annotation) | Là tác phẩm điêu khắc nghệ thuật cố định, không phải đối tượng tham gia giao thông; gán vào sẽ gây phantom braking. | Loại theo quy tắc |
+| `img_018.jpg` | Ảnh chân dung người in trên biển pano quảng cáo ngoài trời | R-07 | **Tuyệt đối KHÔNG gán** (0 annotation) | Là hình dán, tranh in 2D phẳng trên biển hiệu, không có chiều sâu 3D hay sự sống; gán vào sẽ làm xe tự hành phanh oan. | Loại theo quy tắc |
 | `img_027.jpg` | Tượng đài xe bán tải đúc bằng đá hoa cương | R-02 | **Không gán box nào** | Công trình tưởng niệm cố định trong công viên, không có động cơ hay quỹ đạo di chuyển. | Loại theo quy tắc |
 | `img_020.jpg` | Xe và cầu vồng phản chiếu trong gương chiếu hậu | R-04 | **Không gán** ảnh trong gương | Là ảnh ảo 2D quang học, không có chướng ngại vật thực tại vị trí bề mặt gương. | Loại theo quy tắc |
-| `img_033.jpg` | Ma-nơ-canh trưng bày quần áo sau cửa kính | R-05 | **Không gán** nhãn `person` | Búp bê vô tri trong nhà, nằm ngoài phạm vi thực thể sinh học cần phát hiện. | Loại theo quy tắc |
+| `img_033.jpg` | Ma-nơ-canh trưng bày quần áo sau cửa kính ở Glasgow | R-05 | **Tuyệt đối KHÔNG gán** (0 annotation) | Là ma-nơ-canh nhân tạo vô tri trong nhà, không phải con người thật tham gia giao thông; gán vào sẽ gây phantom braking. | Loại theo quy tắc |
+| `img_038.jpg` | Bộ sưu tập xe mô hình đồ chơi, búp bê trong tủ kính cửa hàng | R-06 | **Tuyệt đối KHÔNG gán** (0 annotation) | Là đồ chơi mô hình thu nhỏ trưng bày trong nhà, không phải xe thật lưu thông ngoài đường, nằm ngoài miền ứng dụng (ODD). | Loại theo quy tắc |
 
 ---
 
