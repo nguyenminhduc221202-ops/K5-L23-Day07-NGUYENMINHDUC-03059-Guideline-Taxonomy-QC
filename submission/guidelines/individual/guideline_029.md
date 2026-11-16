@@ -63,8 +63,8 @@ Tài liệu này xác lập hướng dẫn gán nhãn bounding box 2D độc l�
    - Vùng giao nhau giữa thân người và thân xe không trừ ra mà cả hai box đều bao trùm phần của mình.
 
 3. **Xe chuyên chở phương tiện khác (Car carrier - `img_002.jpg`):**
-   - Xe tải chuyên chở: Vẽ 1 box `truck` bao toàn bộ đầu kéo và rơ-moóc chở hàng.
-   - Các xe ô tô con được chở trên sàn: Nếu còn nguyên vẹn hình dáng và đặc trưng hình học thì vẽ riêng mỗi chiếc 1 box `car` độc lập (đánh dấu thuộc tính `occluded_level` tương ứng).
+   - Xe tải chuyên chở hai tầng: Quyết định của tôi tại Pha 1 là **vẽ duy nhất 1 box `truck` lớn** bao trùm toàn bộ xe tải đầu kéo và toàn bộ giàn xe ô tô chở trên rơ-moóc.
+   - Các xe ô tô con trên sàn xe: Xem chúng là hàng hóa chuyên chở cố định của xe tải, không vẽ bóc tách lẻ từng box `car` để tránh gây nhiễu cho mô hình về kích thước tổng thể của xe siêu trường siêu trọng. (Đưa ca này ra thảo luận với nhóm ở Pha 2).
 
 4. **Hàng hóa chở cồng kềnh trên xe (`img_029.jpg`, `img_035.jpg`):**
    - Box của phương tiện (`motorcycle`, `tuk_tuk`) chỉ ôm trọn kết cấu cơ khí của xe; **không kéo rộng box** để bao các bao tải, kiện hàng cồng kềnh xếp nhô cao vượt khung xe.
@@ -86,7 +86,7 @@ Tài liệu này xác lập hướng dẫn gán nhãn bounding box 2D độc l�
 
 | Mã ảnh | Tình huống cụ thể | Mã Rule đề xuất | Quyết định gán của 029 | Căn cứ và lý do | Phân loại |
 |---|---|---|---|---|---|
-| `img_002.jpg` | Xe tải Renault chở 8 xe ô tô con trên hai tầng sàn | R-01 | Gán 1 box `truck` cho xe tải và 8 box `car` riêng lẻ | Xe con trên sàn mang đầy đủ đặc trưng thị giác 2D, mô hình cần phát hiện để phòng ngừa va chạm tĩnh. | Theo quy tắc |
+| `img_002.jpg` | Xe tải Renault chở 8 xe ô tô con trên hai tầng sàn | R-01 | Gán duy nhất **1 box `truck` to** bao toàn bộ xe và giàn ô tô trên sàn (không gán lẻ `car`) | Xem toàn bộ các ô tô con là hàng hóa chuyên chở trên rơ-moóc; box cần ôm trọn khối xe tải chở hàng để xe tự hành nhận diện đây là một khối phương tiện siêu trường. | Cần hỏi reviewer |
 | `img_017.jpg` | Tượng đá công tước Wellington cưỡi ngựa đội nón chóp giao thông | R-02 | **Không gán** bất kỳ box nào | Là tượng đài nghệ thuật cố định, không có ý thức tham gia giao thông. Gán vào sẽ gây lỗi phanh gấp. | Loại theo quy tắc |
 | `img_020.jpg` | Người lái xe và xe nhìn qua gương chiếu hậu | R-04 | **Không gán** ảnh phản chiếu trong gương | Hình ảnh trong gương là ảnh ảo 2D quang học, không tồn tại vật thể thực ở vị trí tọa độ của gương. | Loại theo quy tắc |
 | `img_027.jpg` | Tượng đài bằng đá hoa cương tạc hình chiếc xe bán tải | R-02 | **Không gán** nhãn `truck` hay `car` | Là công trình điêu khắc bất động trong khuôn viên, không có quỹ đạo chuyển động. | Loại theo quy tắc |
