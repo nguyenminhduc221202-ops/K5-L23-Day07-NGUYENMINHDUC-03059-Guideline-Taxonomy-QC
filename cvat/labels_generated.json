@@ -2,6 +2,7 @@
   {
     "name": "car",
     "color": "#e6194b",
+    "type": "any",
     "attributes": [
       {
         "name": "occluded_level",
@@ -39,6 +40,7 @@
   {
     "name": "truck",
     "color": "#3cb44b",
+    "type": "any",
     "attributes": [
       {
         "name": "occluded_level",
@@ -76,6 +78,7 @@
   {
     "name": "van",
     "color": "#4363d8",
+    "type": "any",
     "attributes": [
       {
         "name": "occluded_level",
@@ -113,6 +116,7 @@
   {
     "name": "bus",
     "color": "#f58231",
+    "type": "any",
     "attributes": [
       {
         "name": "occluded_level",
@@ -150,6 +154,7 @@
   {
     "name": "tuk_tuk",
     "color": "#911eb4",
+    "type": "any",
     "attributes": [
       {
         "name": "occluded_level",
@@ -187,6 +192,7 @@
   {
     "name": "motorcycle",
     "color": "#46c8c8",
+    "type": "any",
     "attributes": [
       {
         "name": "occluded_level",
@@ -224,6 +230,7 @@
   {
     "name": "person",
     "color": "#f032e6",
+    "type": "any",
     "attributes": [
       {
         "name": "occluded_level",
@@ -261,6 +268,7 @@
   {
     "name": "ignore_region",
     "color": "#808080",
+    "type": "any",
     "attributes": []
   }
 ]
