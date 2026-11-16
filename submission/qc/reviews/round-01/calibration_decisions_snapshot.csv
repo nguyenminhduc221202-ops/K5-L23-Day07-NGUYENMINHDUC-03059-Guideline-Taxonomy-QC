@@ -1,0 +1,811 @@
+case_id,image,quyet_dinh,quy_tac_ghi_vao_guideline,phien_ban_guideline,nguoi_chot,phieu_sua,kiem_lai,pham_vi
+C001,img_001.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C002,img_001.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C003,img_001.jpg,Chuẩn hóa box ôm sát theo R-01,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C004,img_001.jpg,Chuẩn hóa box ôm sát theo R-01,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C005,img_001.jpg,Chuẩn hóa box ôm sát theo R-01,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C006,img_001.jpg,Chuẩn hóa box ôm sát theo R-01,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C007,img_001.jpg,Chuẩn hóa box ôm sát theo R-01,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C008,img_001.jpg,Chuẩn hóa box ôm sát theo R-01,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C009,img_001.jpg,Chuẩn hóa box ôm sát theo R-01,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C010,img_001.jpg,Chuẩn hóa box ôm sát theo R-01,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C011,img_001.jpg,Chuẩn hóa box ôm sát theo R-01,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C012,img_001.jpg,Chuẩn hóa box ôm sát theo R-01,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C013,img_001.jpg,Chuẩn hóa box ôm sát theo R-01,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C014,img_001.jpg,Chuẩn hóa box ôm sát theo R-01,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C015,img_001.jpg,Chốt lớp chuẩn theo cấu tạo R-03/R-04,R-03,v1.1,059,CVAT #1,029 - đã xác nhận,anh
+C016,img_001.jpg,Chốt lớp chuẩn theo cấu tạo R-03/R-04,R-03,v1.1,059,CVAT #1,029 - đã xác nhận,anh
+C017,img_001.jpg,Hiệu chuẩn thuộc tính theo định lượng R-01,R-01,v1.1,059,CVAT #1,029 - đã xác nhận,anh
+C018,img_001.jpg,Hiệu chuẩn thuộc tính theo định lượng R-01,R-01,v1.1,059,CVAT #1,029 - đã xác nhận,anh
+C019,img_001.jpg,Hiệu chuẩn thuộc tính theo định lượng R-01,R-01,v1.1,059,CVAT #1,029 - đã xác nhận,anh
+C020,img_001.jpg,Hiệu chuẩn thuộc tính theo định lượng R-01,R-01,v1.1,059,CVAT #1,029 - đã xác nhận,anh
+C021,img_001.jpg,Hiệu chuẩn thuộc tính theo định lượng R-01,R-01,v1.1,059,CVAT #1,029 - đã xác nhận,anh
+C022,img_001.jpg,Hiệu chuẩn thuộc tính theo định lượng R-01,R-01,v1.1,059,CVAT #1,029 - đã xác nhận,anh
+C023,img_001.jpg,Hiệu chuẩn thuộc tính theo định lượng R-01,R-01,v1.1,059,CVAT #1,029 - đã xác nhận,anh
+C024,img_001.jpg,Hiệu chuẩn thuộc tính theo định lượng R-01,R-01,v1.1,059,CVAT #1,029 - đã xác nhận,anh
+C025,img_001.jpg,Hiệu chuẩn thuộc tính theo định lượng R-01,R-01,v1.1,059,CVAT #1,029 - đã xác nhận,anh
+C026,img_002.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C027,img_002.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C028,img_003.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C029,img_003.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C030,img_003.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C031,img_003.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C032,img_003.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C033,img_003.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C034,img_003.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C035,img_003.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C036,img_003.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C037,img_003.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C038,img_003.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C039,img_003.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C040,img_003.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C041,img_003.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C042,img_003.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C043,img_003.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C044,img_003.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C045,img_003.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C046,img_003.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C047,img_003.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C048,img_003.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C049,img_003.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C050,img_003.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C051,img_003.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C052,img_003.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C053,img_003.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C054,img_003.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C055,img_003.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C056,img_003.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C057,img_003.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C058,img_003.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C059,img_003.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C060,img_003.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C061,img_003.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C062,img_003.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C063,img_003.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C064,img_003.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C065,img_003.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C066,img_003.jpg,Chuẩn hóa box ôm sát theo R-01,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C067,img_003.jpg,Chuẩn hóa box ôm sát theo R-01,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C068,img_003.jpg,Hiệu chuẩn thuộc tính theo định lượng R-01,R-01,v1.1,059,CVAT #1,029 - đã xác nhận,anh
+C069,img_003.jpg,Hiệu chuẩn thuộc tính theo định lượng R-01,R-01,v1.1,059,CVAT #1,029 - đã xác nhận,anh
+C070,img_003.jpg,Hiệu chuẩn thuộc tính theo định lượng R-01,R-01,v1.1,059,CVAT #1,029 - đã xác nhận,anh
+C071,img_003.jpg,Hiệu chuẩn thuộc tính theo định lượng R-01,R-01,v1.1,059,CVAT #1,029 - đã xác nhận,anh
+C072,img_003.jpg,Hiệu chuẩn thuộc tính theo định lượng R-01,R-01,v1.1,059,CVAT #1,029 - đã xác nhận,anh
+C073,img_003.jpg,Hiệu chuẩn thuộc tính theo định lượng R-01,R-01,v1.1,059,CVAT #1,029 - đã xác nhận,anh
+C074,img_003.jpg,Hiệu chuẩn thuộc tính theo định lượng R-01,R-01,v1.1,059,CVAT #1,029 - đã xác nhận,anh
+C075,img_004.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C076,img_004.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C077,img_004.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C078,img_004.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C079,img_004.jpg,Hiệu chuẩn thuộc tính theo định lượng R-01,R-01,v1.1,059,CVAT #1,029 - đã xác nhận,anh
+C080,img_004.jpg,Hiệu chuẩn thuộc tính theo định lượng R-01,R-01,v1.1,059,CVAT #1,029 - đã xác nhận,anh
+C081,img_005.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C082,img_005.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C083,img_005.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C084,img_005.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C085,img_005.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C086,img_005.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C087,img_005.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C088,img_005.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C089,img_005.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C090,img_005.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C091,img_005.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C092,img_005.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C093,img_005.jpg,Chuẩn hóa box ôm sát theo R-01,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C094,img_005.jpg,Chuẩn hóa box ôm sát theo R-01,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C095,img_005.jpg,Chuẩn hóa box ôm sát theo R-01,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C096,img_005.jpg,Hiệu chuẩn thuộc tính theo định lượng R-01,R-01,v1.1,059,CVAT #1,029 - đã xác nhận,anh
+C097,img_005.jpg,Hiệu chuẩn thuộc tính theo định lượng R-01,R-01,v1.1,059,CVAT #1,029 - đã xác nhận,anh
+C098,img_005.jpg,Hiệu chuẩn thuộc tính theo định lượng R-01,R-01,v1.1,059,CVAT #1,029 - đã xác nhận,anh
+C099,img_005.jpg,Hiệu chuẩn thuộc tính theo định lượng R-01,R-01,v1.1,059,CVAT #1,029 - đã xác nhận,anh
+C100,img_006.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C101,img_006.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C102,img_006.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C103,img_006.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C104,img_006.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C105,img_006.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C106,img_006.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C107,img_006.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C108,img_006.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C109,img_006.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C110,img_006.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C111,img_006.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C112,img_006.jpg,Chuẩn hóa box ôm sát theo R-01,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C113,img_006.jpg,Chuẩn hóa box ôm sát theo R-01,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C114,img_006.jpg,Chuẩn hóa box ôm sát theo R-01,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C115,img_006.jpg,Chuẩn hóa box ôm sát theo R-01,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C116,img_006.jpg,Chuẩn hóa box ôm sát theo R-01,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C117,img_006.jpg,Chuẩn hóa box ôm sát theo R-01,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C118,img_006.jpg,Chuẩn hóa box ôm sát theo R-01,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C119,img_006.jpg,Chuẩn hóa box ôm sát theo R-01,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C120,img_006.jpg,Chuẩn hóa box ôm sát theo R-01,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C121,img_006.jpg,Hiệu chuẩn thuộc tính theo định lượng R-01,R-01,v1.1,059,CVAT #1,029 - đã xác nhận,anh
+C122,img_006.jpg,Hiệu chuẩn thuộc tính theo định lượng R-01,R-01,v1.1,059,CVAT #1,029 - đã xác nhận,anh
+C123,img_006.jpg,Hiệu chuẩn thuộc tính theo định lượng R-01,R-01,v1.1,059,CVAT #1,029 - đã xác nhận,anh
+C124,img_006.jpg,Hiệu chuẩn thuộc tính theo định lượng R-01,R-01,v1.1,059,CVAT #1,029 - đã xác nhận,anh
+C125,img_006.jpg,Hiệu chuẩn thuộc tính theo định lượng R-01,R-01,v1.1,059,CVAT #1,029 - đã xác nhận,anh
+C126,img_006.jpg,Hiệu chuẩn thuộc tính theo định lượng R-01,R-01,v1.1,059,CVAT #1,029 - đã xác nhận,anh
+C127,img_006.jpg,Hiệu chuẩn thuộc tính theo định lượng R-01,R-01,v1.1,059,CVAT #1,029 - đã xác nhận,anh
+C128,img_006.jpg,Hiệu chuẩn thuộc tính theo định lượng R-01,R-01,v1.1,059,CVAT #1,029 - đã xác nhận,anh
+C129,img_006.jpg,Hiệu chuẩn thuộc tính theo định lượng R-01,R-01,v1.1,059,CVAT #1,029 - đã xác nhận,anh
+C130,img_006.jpg,Hiệu chuẩn thuộc tính theo định lượng R-01,R-01,v1.1,059,CVAT #1,029 - đã xác nhận,anh
+C131,img_006.jpg,Hiệu chuẩn thuộc tính theo định lượng R-01,R-01,v1.1,059,CVAT #1,029 - đã xác nhận,anh
+C132,img_006.jpg,Hiệu chuẩn thuộc tính theo định lượng R-01,R-01,v1.1,059,CVAT #1,029 - đã xác nhận,anh
+C133,img_007.jpg,Hiệu chuẩn thuộc tính theo định lượng R-01,R-01,v1.1,059,CVAT #1,029 - đã xác nhận,anh
+C134,img_007.jpg,Hiệu chuẩn thuộc tính theo định lượng R-01,R-01,v1.1,059,CVAT #1,029 - đã xác nhận,anh
+C135,img_008.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C136,img_008.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C137,img_008.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C138,img_008.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C139,img_008.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C140,img_008.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C141,img_008.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C142,img_008.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C143,img_008.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C144,img_008.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C145,img_008.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C146,img_008.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C147,img_008.jpg,Chuẩn hóa box ôm sát theo R-01,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C148,img_008.jpg,Chuẩn hóa box ôm sát theo R-01,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C149,img_008.jpg,Chuẩn hóa box ôm sát theo R-01,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C150,img_008.jpg,Chuẩn hóa box ôm sát theo R-01,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C151,img_008.jpg,Chuẩn hóa box ôm sát theo R-01,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C152,img_008.jpg,Chuẩn hóa box ôm sát theo R-01,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C153,img_008.jpg,Chuẩn hóa box ôm sát theo R-01,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C154,img_008.jpg,Chuẩn hóa box ôm sát theo R-01,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C155,img_008.jpg,Chuẩn hóa box ôm sát theo R-01,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C156,img_008.jpg,Hiệu chuẩn thuộc tính theo định lượng R-01,R-01,v1.1,059,CVAT #1,029 - đã xác nhận,anh
+C157,img_008.jpg,Hiệu chuẩn thuộc tính theo định lượng R-01,R-01,v1.1,059,CVAT #1,029 - đã xác nhận,anh
+C158,img_008.jpg,Hiệu chuẩn thuộc tính theo định lượng R-01,R-01,v1.1,059,CVAT #1,029 - đã xác nhận,anh
+C159,img_008.jpg,Hiệu chuẩn thuộc tính theo định lượng R-01,R-01,v1.1,059,CVAT #1,029 - đã xác nhận,anh
+C160,img_008.jpg,Hiệu chuẩn thuộc tính theo định lượng R-01,R-01,v1.1,059,CVAT #1,029 - đã xác nhận,anh
+C161,img_008.jpg,Hiệu chuẩn thuộc tính theo định lượng R-01,R-01,v1.1,059,CVAT #1,029 - đã xác nhận,anh
+C162,img_008.jpg,Hiệu chuẩn thuộc tính theo định lượng R-01,R-01,v1.1,059,CVAT #1,029 - đã xác nhận,anh
+C163,img_008.jpg,Hiệu chuẩn thuộc tính theo định lượng R-01,R-01,v1.1,059,CVAT #1,029 - đã xác nhận,anh
+C164,img_008.jpg,Hiệu chuẩn thuộc tính theo định lượng R-01,R-01,v1.1,059,CVAT #1,029 - đã xác nhận,anh
+C165,img_008.jpg,Hiệu chuẩn thuộc tính theo định lượng R-01,R-01,v1.1,059,CVAT #1,029 - đã xác nhận,anh
+C166,img_008.jpg,Hiệu chuẩn thuộc tính theo định lượng R-01,R-01,v1.1,059,CVAT #1,029 - đã xác nhận,anh
+C167,img_008.jpg,Hiệu chuẩn thuộc tính theo định lượng R-01,R-01,v1.1,059,CVAT #1,029 - đã xác nhận,anh
+C168,img_009.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C169,img_009.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C170,img_009.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C171,img_009.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C172,img_009.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C173,img_009.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C174,img_009.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C175,img_009.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C176,img_009.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C177,img_009.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C178,img_009.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C179,img_009.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C180,img_009.jpg,Chuẩn hóa box ôm sát theo R-01,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C181,img_009.jpg,Chuẩn hóa box ôm sát theo R-01,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C182,img_009.jpg,Hiệu chuẩn thuộc tính theo định lượng R-01,R-01,v1.1,059,CVAT #1,029 - đã xác nhận,anh
+C183,img_009.jpg,Hiệu chuẩn thuộc tính theo định lượng R-01,R-01,v1.1,059,CVAT #1,029 - đã xác nhận,anh
+C184,img_009.jpg,Hiệu chuẩn thuộc tính theo định lượng R-01,R-01,v1.1,059,CVAT #1,029 - đã xác nhận,anh
+C185,img_010.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C186,img_010.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C187,img_010.jpg,Chuẩn hóa box ôm sát theo R-01,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C188,img_010.jpg,Chuẩn hóa box ôm sát theo R-01,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C189,img_010.jpg,Chuẩn hóa box ôm sát theo R-01,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C190,img_010.jpg,Chuẩn hóa box ôm sát theo R-01,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C191,img_010.jpg,Chuẩn hóa box ôm sát theo R-01,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C192,img_010.jpg,Hiệu chuẩn thuộc tính theo định lượng R-01,R-01,v1.1,059,CVAT #1,029 - đã xác nhận,anh
+C193,img_010.jpg,Hiệu chuẩn thuộc tính theo định lượng R-01,R-01,v1.1,059,CVAT #1,029 - đã xác nhận,anh
+C194,img_010.jpg,Hiệu chuẩn thuộc tính theo định lượng R-01,R-01,v1.1,059,CVAT #1,029 - đã xác nhận,anh
+C195,img_010.jpg,Hiệu chuẩn thuộc tính theo định lượng R-01,R-01,v1.1,059,CVAT #1,029 - đã xác nhận,anh
+C196,img_010.jpg,Hiệu chuẩn thuộc tính theo định lượng R-01,R-01,v1.1,059,CVAT #1,029 - đã xác nhận,anh
+C197,img_010.jpg,Hiệu chuẩn thuộc tính theo định lượng R-01,R-01,v1.1,059,CVAT #1,029 - đã xác nhận,anh
+C198,img_010.jpg,Hiệu chuẩn thuộc tính theo định lượng R-01,R-01,v1.1,059,CVAT #1,029 - đã xác nhận,anh
+C199,img_010.jpg,Hiệu chuẩn thuộc tính theo định lượng R-01,R-01,v1.1,059,CVAT #1,029 - đã xác nhận,anh
+C200,img_010.jpg,Hiệu chuẩn thuộc tính theo định lượng R-01,R-01,v1.1,059,CVAT #1,029 - đã xác nhận,anh
+C201,img_010.jpg,Hiệu chuẩn thuộc tính theo định lượng R-01,R-01,v1.1,059,CVAT #1,029 - đã xác nhận,anh
+C202,img_011.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C203,img_011.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C204,img_011.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C205,img_011.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C206,img_011.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C207,img_011.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C208,img_011.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C209,img_011.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C210,img_011.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C211,img_011.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C212,img_011.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C213,img_011.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C214,img_011.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C215,img_011.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C216,img_011.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C217,img_011.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C218,img_011.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C219,img_011.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C220,img_011.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C221,img_011.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C222,img_011.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C223,img_011.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C224,img_011.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C225,img_011.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C226,img_011.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C227,img_011.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C228,img_011.jpg,Chuẩn hóa box ôm sát theo R-01,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C229,img_011.jpg,Chuẩn hóa box ôm sát theo R-01,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C230,img_011.jpg,Chuẩn hóa box ôm sát theo R-01,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C231,img_011.jpg,Chuẩn hóa box ôm sát theo R-01,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C232,img_011.jpg,Chuẩn hóa box ôm sát theo R-01,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C233,img_011.jpg,Chuẩn hóa box ôm sát theo R-01,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C234,img_011.jpg,Chuẩn hóa box ôm sát theo R-01,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C235,img_011.jpg,Chuẩn hóa box ôm sát theo R-01,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C236,img_011.jpg,Chuẩn hóa box ôm sát theo R-01,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C237,img_011.jpg,Chuẩn hóa box ôm sát theo R-01,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C238,img_011.jpg,Chuẩn hóa box ôm sát theo R-01,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C239,img_011.jpg,Chuẩn hóa box ôm sát theo R-01,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C240,img_011.jpg,Chuẩn hóa box ôm sát theo R-01,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C241,img_011.jpg,Hiệu chuẩn thuộc tính theo định lượng R-01,R-01,v1.1,059,CVAT #1,029 - đã xác nhận,anh
+C242,img_011.jpg,Hiệu chuẩn thuộc tính theo định lượng R-01,R-01,v1.1,059,CVAT #1,029 - đã xác nhận,anh
+C243,img_011.jpg,Hiệu chuẩn thuộc tính theo định lượng R-01,R-01,v1.1,059,CVAT #1,029 - đã xác nhận,anh
+C244,img_011.jpg,Hiệu chuẩn thuộc tính theo định lượng R-01,R-01,v1.1,059,CVAT #1,029 - đã xác nhận,anh
+C245,img_011.jpg,Hiệu chuẩn thuộc tính theo định lượng R-01,R-01,v1.1,059,CVAT #1,029 - đã xác nhận,anh
+C246,img_011.jpg,Hiệu chuẩn thuộc tính theo định lượng R-01,R-01,v1.1,059,CVAT #1,029 - đã xác nhận,anh
+C247,img_011.jpg,Hiệu chuẩn thuộc tính theo định lượng R-01,R-01,v1.1,059,CVAT #1,029 - đã xác nhận,anh
+C248,img_011.jpg,Hiệu chuẩn thuộc tính theo định lượng R-01,R-01,v1.1,059,CVAT #1,029 - đã xác nhận,anh
+C249,img_012.jpg,Chốt lớp chuẩn theo cấu tạo R-03/R-04,R-03,v1.1,059,CVAT #1,029 - đã xác nhận,anh
+C250,img_012.jpg,Chốt lớp chuẩn theo cấu tạo R-03/R-04,R-03,v1.1,059,CVAT #1,029 - đã xác nhận,anh
+C251,img_012.jpg,Hiệu chuẩn thuộc tính theo định lượng R-01,R-01,v1.1,059,CVAT #1,029 - đã xác nhận,anh
+C252,img_012.jpg,Hiệu chuẩn thuộc tính theo định lượng R-01,R-01,v1.1,059,CVAT #1,029 - đã xác nhận,anh
+C253,img_012.jpg,Hiệu chuẩn thuộc tính theo định lượng R-01,R-01,v1.1,059,CVAT #1,029 - đã xác nhận,anh
+C254,img_012.jpg,Hiệu chuẩn thuộc tính theo định lượng R-01,R-01,v1.1,059,CVAT #1,029 - đã xác nhận,anh
+C255,img_013.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C256,img_013.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C257,img_013.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C258,img_013.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C259,img_013.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C260,img_013.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C261,img_013.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C262,img_013.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C263,img_013.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C264,img_013.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C265,img_013.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C266,img_013.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C267,img_013.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C268,img_013.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C269,img_013.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C270,img_013.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C271,img_013.jpg,Chuẩn hóa box ôm sát theo R-01,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C272,img_013.jpg,Chuẩn hóa box ôm sát theo R-01,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C273,img_013.jpg,Chuẩn hóa box ôm sát theo R-01,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C274,img_013.jpg,Chuẩn hóa box ôm sát theo R-01,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C275,img_013.jpg,Chuẩn hóa box ôm sát theo R-01,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C276,img_013.jpg,Hiệu chuẩn thuộc tính theo định lượng R-01,R-01,v1.1,059,CVAT #1,029 - đã xác nhận,anh
+C277,img_013.jpg,Hiệu chuẩn thuộc tính theo định lượng R-01,R-01,v1.1,059,CVAT #1,029 - đã xác nhận,anh
+C278,img_014.jpg,Chuẩn hóa box ôm sát theo R-01,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C279,img_014.jpg,Chuẩn hóa box ôm sát theo R-01,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C280,img_015.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C281,img_015.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C282,img_015.jpg,Hiệu chuẩn thuộc tính theo định lượng R-01,R-01,v1.1,059,CVAT #1,029 - đã xác nhận,anh
+C283,img_015.jpg,Hiệu chuẩn thuộc tính theo định lượng R-01,R-01,v1.1,059,CVAT #1,029 - đã xác nhận,anh
+C284,img_015.jpg,Hiệu chuẩn thuộc tính theo định lượng R-01,R-01,v1.1,059,CVAT #1,029 - đã xác nhận,anh
+C285,img_015.jpg,Hiệu chuẩn thuộc tính theo định lượng R-01,R-01,v1.1,059,CVAT #1,029 - đã xác nhận,anh
+C286,img_015.jpg,Hiệu chuẩn thuộc tính theo định lượng R-01,R-01,v1.1,059,CVAT #1,029 - đã xác nhận,anh
+C287,img_015.jpg,Hiệu chuẩn thuộc tính theo định lượng R-01,R-01,v1.1,059,CVAT #1,029 - đã xác nhận,anh
+C288,img_015.jpg,Hiệu chuẩn thuộc tính theo định lượng R-01,R-01,v1.1,059,CVAT #1,029 - đã xác nhận,anh
+C289,img_015.jpg,Hiệu chuẩn thuộc tính theo định lượng R-01,R-01,v1.1,059,CVAT #1,029 - đã xác nhận,anh
+C290,img_015.jpg,Hiệu chuẩn thuộc tính theo định lượng R-01,R-01,v1.1,059,CVAT #1,029 - đã xác nhận,anh
+C291,img_015.jpg,Hiệu chuẩn thuộc tính theo định lượng R-01,R-01,v1.1,059,CVAT #1,029 - đã xác nhận,anh
+C292,img_016.jpg,Chuẩn hóa box ôm sát theo R-01,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C293,img_016.jpg,Chốt lớp chuẩn theo cấu tạo R-03/R-04,R-03,v1.1,059,CVAT #1,029 - đã xác nhận,anh
+C294,img_016.jpg,Chốt lớp chuẩn theo cấu tạo R-03/R-04,R-03,v1.1,059,CVAT #1,029 - đã xác nhận,anh
+C295,img_016.jpg,Hiệu chuẩn thuộc tính theo định lượng R-01,R-01,v1.1,059,CVAT #1,029 - đã xác nhận,anh
+C296,img_016.jpg,Hiệu chuẩn thuộc tính theo định lượng R-01,R-01,v1.1,059,CVAT #1,029 - đã xác nhận,anh
+C297,img_016.jpg,Hiệu chuẩn thuộc tính theo định lượng R-01,R-01,v1.1,059,CVAT #1,029 - đã xác nhận,anh
+C298,img_016.jpg,Hiệu chuẩn thuộc tính theo định lượng R-01,R-01,v1.1,059,CVAT #1,029 - đã xác nhận,anh
+C299,img_016.jpg,Hiệu chuẩn thuộc tính theo định lượng R-01,R-01,v1.1,059,CVAT #1,029 - đã xác nhận,anh
+C300,img_016.jpg,Hiệu chuẩn thuộc tính theo định lượng R-01,R-01,v1.1,059,CVAT #1,029 - đã xác nhận,anh
+C301,img_018.jpg,Chuẩn hóa box ôm sát theo R-01,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C302,img_018.jpg,Chuẩn hóa box ôm sát theo R-01,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C303,img_018.jpg,Chuẩn hóa box ôm sát theo R-01,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C304,img_018.jpg,Chuẩn hóa box ôm sát theo R-01,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C305,img_018.jpg,Chuẩn hóa box ôm sát theo R-01,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C306,img_018.jpg,Chuẩn hóa box ôm sát theo R-01,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C307,img_018.jpg,Chuẩn hóa box ôm sát theo R-01,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C308,img_018.jpg,Chuẩn hóa box ôm sát theo R-01,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C309,img_018.jpg,Hiệu chuẩn thuộc tính theo định lượng R-01,R-01,v1.1,059,CVAT #1,029 - đã xác nhận,anh
+C310,img_018.jpg,Hiệu chuẩn thuộc tính theo định lượng R-01,R-01,v1.1,059,CVAT #1,029 - đã xác nhận,anh
+C311,img_018.jpg,Hiệu chuẩn thuộc tính theo định lượng R-01,R-01,v1.1,059,CVAT #1,029 - đã xác nhận,anh
+C312,img_018.jpg,Hiệu chuẩn thuộc tính theo định lượng R-01,R-01,v1.1,059,CVAT #1,029 - đã xác nhận,anh
+C313,img_018.jpg,Hiệu chuẩn thuộc tính theo định lượng R-01,R-01,v1.1,059,CVAT #1,029 - đã xác nhận,anh
+C314,img_018.jpg,Hiệu chuẩn thuộc tính theo định lượng R-01,R-01,v1.1,059,CVAT #1,029 - đã xác nhận,anh
+C315,img_018.jpg,Hiệu chuẩn thuộc tính theo định lượng R-01,R-01,v1.1,059,CVAT #1,029 - đã xác nhận,anh
+C316,img_018.jpg,Hiệu chuẩn thuộc tính theo định lượng R-01,R-01,v1.1,059,CVAT #1,029 - đã xác nhận,anh
+C317,img_018.jpg,Hiệu chuẩn thuộc tính theo định lượng R-01,R-01,v1.1,059,CVAT #1,029 - đã xác nhận,anh
+C318,img_018.jpg,Hiệu chuẩn thuộc tính theo định lượng R-01,R-01,v1.1,059,CVAT #1,029 - đã xác nhận,anh
+C319,img_019.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C320,img_019.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C321,img_019.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C322,img_019.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C323,img_019.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C324,img_019.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C325,img_019.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C326,img_019.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C327,img_019.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C328,img_019.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C329,img_019.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C330,img_019.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C331,img_019.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C332,img_019.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C333,img_019.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C334,img_019.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C335,img_019.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C336,img_019.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C337,img_019.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C338,img_019.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C339,img_019.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C340,img_019.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C341,img_019.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C342,img_019.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C343,img_019.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C344,img_019.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C345,img_019.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C346,img_019.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C347,img_019.jpg,Chuẩn hóa box ôm sát theo R-01,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C348,img_019.jpg,Hiệu chuẩn thuộc tính theo định lượng R-01,R-01,v1.1,059,CVAT #1,029 - đã xác nhận,anh
+C349,img_019.jpg,Hiệu chuẩn thuộc tính theo định lượng R-01,R-01,v1.1,059,CVAT #1,029 - đã xác nhận,anh
+C350,img_021.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C351,img_021.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C352,img_021.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C353,img_021.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C354,img_021.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C355,img_021.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C356,img_021.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C357,img_021.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C358,img_021.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C359,img_021.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C360,img_021.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C361,img_021.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C362,img_021.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C363,img_021.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C364,img_021.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C365,img_021.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C366,img_021.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C367,img_021.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C368,img_021.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C369,img_021.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C370,img_021.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C371,img_021.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C372,img_021.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C373,img_021.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C374,img_021.jpg,Chuẩn hóa box ôm sát theo R-01,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C375,img_021.jpg,Chuẩn hóa box ôm sát theo R-01,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C376,img_021.jpg,Chuẩn hóa box ôm sát theo R-01,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C377,img_021.jpg,Chuẩn hóa box ôm sát theo R-01,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C378,img_021.jpg,Chuẩn hóa box ôm sát theo R-01,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C379,img_021.jpg,Chuẩn hóa box ôm sát theo R-01,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C380,img_021.jpg,Chuẩn hóa box ôm sát theo R-01,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C381,img_021.jpg,Chuẩn hóa box ôm sát theo R-01,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C382,img_021.jpg,Chuẩn hóa box ôm sát theo R-01,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C383,img_021.jpg,Chuẩn hóa box ôm sát theo R-01,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C384,img_021.jpg,Chuẩn hóa box ôm sát theo R-01,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C385,img_021.jpg,Chuẩn hóa box ôm sát theo R-01,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C386,img_021.jpg,Chuẩn hóa box ôm sát theo R-01,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C387,img_021.jpg,Chuẩn hóa box ôm sát theo R-01,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C388,img_021.jpg,Chuẩn hóa box ôm sát theo R-01,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C389,img_021.jpg,Chuẩn hóa box ôm sát theo R-01,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C390,img_021.jpg,Chuẩn hóa box ôm sát theo R-01,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C391,img_021.jpg,Hiệu chuẩn thuộc tính theo định lượng R-01,R-01,v1.1,059,CVAT #1,029 - đã xác nhận,anh
+C392,img_021.jpg,Hiệu chuẩn thuộc tính theo định lượng R-01,R-01,v1.1,059,CVAT #1,029 - đã xác nhận,anh
+C393,img_021.jpg,Hiệu chuẩn thuộc tính theo định lượng R-01,R-01,v1.1,059,CVAT #1,029 - đã xác nhận,anh
+C394,img_021.jpg,Hiệu chuẩn thuộc tính theo định lượng R-01,R-01,v1.1,059,CVAT #1,029 - đã xác nhận,anh
+C395,img_021.jpg,Hiệu chuẩn thuộc tính theo định lượng R-01,R-01,v1.1,059,CVAT #1,029 - đã xác nhận,anh
+C396,img_021.jpg,Hiệu chuẩn thuộc tính theo định lượng R-01,R-01,v1.1,059,CVAT #1,029 - đã xác nhận,anh
+C397,img_021.jpg,Hiệu chuẩn thuộc tính theo định lượng R-01,R-01,v1.1,059,CVAT #1,029 - đã xác nhận,anh
+C398,img_021.jpg,Hiệu chuẩn thuộc tính theo định lượng R-01,R-01,v1.1,059,CVAT #1,029 - đã xác nhận,anh
+C399,img_021.jpg,Hiệu chuẩn thuộc tính theo định lượng R-01,R-01,v1.1,059,CVAT #1,029 - đã xác nhận,anh
+C400,img_021.jpg,Hiệu chuẩn thuộc tính theo định lượng R-01,R-01,v1.1,059,CVAT #1,029 - đã xác nhận,anh
+C401,img_021.jpg,Hiệu chuẩn thuộc tính theo định lượng R-01,R-01,v1.1,059,CVAT #1,029 - đã xác nhận,anh
+C402,img_021.jpg,Hiệu chuẩn thuộc tính theo định lượng R-01,R-01,v1.1,059,CVAT #1,029 - đã xác nhận,anh
+C403,img_021.jpg,Hiệu chuẩn thuộc tính theo định lượng R-01,R-01,v1.1,059,CVAT #1,029 - đã xác nhận,anh
+C404,img_021.jpg,Hiệu chuẩn thuộc tính theo định lượng R-01,R-01,v1.1,059,CVAT #1,029 - đã xác nhận,anh
+C405,img_021.jpg,Hiệu chuẩn thuộc tính theo định lượng R-01,R-01,v1.1,059,CVAT #1,029 - đã xác nhận,anh
+C406,img_021.jpg,Hiệu chuẩn thuộc tính theo định lượng R-01,R-01,v1.1,059,CVAT #1,029 - đã xác nhận,anh
+C407,img_021.jpg,Hiệu chuẩn thuộc tính theo định lượng R-01,R-01,v1.1,059,CVAT #1,029 - đã xác nhận,anh
+C408,img_021.jpg,Hiệu chuẩn thuộc tính theo định lượng R-01,R-01,v1.1,059,CVAT #1,029 - đã xác nhận,anh
+C409,img_022.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C410,img_022.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C411,img_022.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C412,img_022.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C413,img_022.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C414,img_022.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C415,img_023.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C416,img_023.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C417,img_023.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C418,img_023.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C419,img_023.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C420,img_023.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C421,img_023.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C422,img_023.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C423,img_023.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C424,img_023.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C425,img_023.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C426,img_023.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C427,img_023.jpg,Chuẩn hóa box ôm sát theo R-01,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C428,img_023.jpg,Chuẩn hóa box ôm sát theo R-01,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C429,img_023.jpg,Chuẩn hóa box ôm sát theo R-01,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C430,img_023.jpg,Chuẩn hóa box ôm sát theo R-01,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C431,img_023.jpg,Chuẩn hóa box ôm sát theo R-01,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C432,img_023.jpg,Chuẩn hóa box ôm sát theo R-01,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C433,img_023.jpg,Hiệu chuẩn thuộc tính theo định lượng R-01,R-01,v1.1,059,CVAT #1,029 - đã xác nhận,anh
+C434,img_023.jpg,Hiệu chuẩn thuộc tính theo định lượng R-01,R-01,v1.1,059,CVAT #1,029 - đã xác nhận,anh
+C435,img_023.jpg,Hiệu chuẩn thuộc tính theo định lượng R-01,R-01,v1.1,059,CVAT #1,029 - đã xác nhận,anh
+C436,img_023.jpg,Hiệu chuẩn thuộc tính theo định lượng R-01,R-01,v1.1,059,CVAT #1,029 - đã xác nhận,anh
+C437,img_023.jpg,Hiệu chuẩn thuộc tính theo định lượng R-01,R-01,v1.1,059,CVAT #1,029 - đã xác nhận,anh
+C438,img_024.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C439,img_024.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C440,img_024.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C441,img_024.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C442,img_024.jpg,Chuẩn hóa box ôm sát theo R-01,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C443,img_024.jpg,Chuẩn hóa box ôm sát theo R-01,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C444,img_024.jpg,Hiệu chuẩn thuộc tính theo định lượng R-01,R-01,v1.1,059,CVAT #1,029 - đã xác nhận,anh
+C445,img_024.jpg,Hiệu chuẩn thuộc tính theo định lượng R-01,R-01,v1.1,059,CVAT #1,029 - đã xác nhận,anh
+C446,img_024.jpg,Hiệu chuẩn thuộc tính theo định lượng R-01,R-01,v1.1,059,CVAT #1,029 - đã xác nhận,anh
+C447,img_024.jpg,Hiệu chuẩn thuộc tính theo định lượng R-01,R-01,v1.1,059,CVAT #1,029 - đã xác nhận,anh
+C448,img_025.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C449,img_025.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C450,img_025.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C451,img_025.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C452,img_025.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C453,img_025.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C454,img_025.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C455,img_025.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C456,img_025.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C457,img_025.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C458,img_025.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C459,img_025.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C460,img_025.jpg,Chuẩn hóa box ôm sát theo R-01,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C461,img_025.jpg,Chuẩn hóa box ôm sát theo R-01,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C462,img_025.jpg,Chuẩn hóa box ôm sát theo R-01,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C463,img_025.jpg,Chuẩn hóa box ôm sát theo R-01,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C464,img_025.jpg,Chuẩn hóa box ôm sát theo R-01,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C465,img_025.jpg,Chuẩn hóa box ôm sát theo R-01,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C466,img_025.jpg,Chuẩn hóa box ôm sát theo R-01,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C467,img_025.jpg,Chuẩn hóa box ôm sát theo R-01,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C468,img_025.jpg,Chuẩn hóa box ôm sát theo R-01,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C469,img_025.jpg,Chuẩn hóa box ôm sát theo R-01,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C470,img_025.jpg,Chuẩn hóa box ôm sát theo R-01,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C471,img_025.jpg,Chuẩn hóa box ôm sát theo R-01,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C472,img_025.jpg,Hiệu chuẩn thuộc tính theo định lượng R-01,R-01,v1.1,059,CVAT #1,029 - đã xác nhận,anh
+C473,img_025.jpg,Hiệu chuẩn thuộc tính theo định lượng R-01,R-01,v1.1,059,CVAT #1,029 - đã xác nhận,anh
+C474,img_025.jpg,Hiệu chuẩn thuộc tính theo định lượng R-01,R-01,v1.1,059,CVAT #1,029 - đã xác nhận,anh
+C475,img_025.jpg,Hiệu chuẩn thuộc tính theo định lượng R-01,R-01,v1.1,059,CVAT #1,029 - đã xác nhận,anh
+C476,img_025.jpg,Hiệu chuẩn thuộc tính theo định lượng R-01,R-01,v1.1,059,CVAT #1,029 - đã xác nhận,anh
+C477,img_025.jpg,Hiệu chuẩn thuộc tính theo định lượng R-01,R-01,v1.1,059,CVAT #1,029 - đã xác nhận,anh
+C478,img_026.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C479,img_026.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C480,img_026.jpg,Chuẩn hóa box ôm sát theo R-01,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C481,img_026.jpg,Chuẩn hóa box ôm sát theo R-01,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C482,img_026.jpg,Chuẩn hóa box ôm sát theo R-01,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C483,img_026.jpg,Chốt lớp chuẩn theo cấu tạo R-03/R-04,R-03,v1.1,059,CVAT #1,029 - đã xác nhận,anh
+C484,img_026.jpg,Chốt lớp chuẩn theo cấu tạo R-03/R-04,R-03,v1.1,059,CVAT #1,029 - đã xác nhận,anh
+C485,img_026.jpg,Hiệu chuẩn thuộc tính theo định lượng R-01,R-01,v1.1,059,CVAT #1,029 - đã xác nhận,anh
+C486,img_026.jpg,Hiệu chuẩn thuộc tính theo định lượng R-01,R-01,v1.1,059,CVAT #1,029 - đã xác nhận,anh
+C487,img_026.jpg,Hiệu chuẩn thuộc tính theo định lượng R-01,R-01,v1.1,059,CVAT #1,029 - đã xác nhận,anh
+C488,img_026.jpg,Hiệu chuẩn thuộc tính theo định lượng R-01,R-01,v1.1,059,CVAT #1,029 - đã xác nhận,anh
+C489,img_026.jpg,Hiệu chuẩn thuộc tính theo định lượng R-01,R-01,v1.1,059,CVAT #1,029 - đã xác nhận,anh
+C490,img_027.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C491,img_027.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C492,img_028.jpg,Chuẩn hóa box ôm sát theo R-01,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C493,img_028.jpg,Chuẩn hóa box ôm sát theo R-01,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C494,img_028.jpg,Chuẩn hóa box ôm sát theo R-01,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C495,img_029.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C496,img_029.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C497,img_029.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C498,img_029.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C499,img_029.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C500,img_029.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C501,img_029.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C502,img_029.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C503,img_029.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C504,img_029.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C505,img_029.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C506,img_029.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C507,img_029.jpg,Chuẩn hóa box ôm sát theo R-01,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C508,img_029.jpg,Chuẩn hóa box ôm sát theo R-01,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C509,img_029.jpg,Chuẩn hóa box ôm sát theo R-01,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C510,img_029.jpg,Chuẩn hóa box ôm sát theo R-01,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C511,img_029.jpg,Hiệu chuẩn thuộc tính theo định lượng R-01,R-01,v1.1,059,CVAT #1,029 - đã xác nhận,anh
+C512,img_029.jpg,Hiệu chuẩn thuộc tính theo định lượng R-01,R-01,v1.1,059,CVAT #1,029 - đã xác nhận,anh
+C513,img_029.jpg,Hiệu chuẩn thuộc tính theo định lượng R-01,R-01,v1.1,059,CVAT #1,029 - đã xác nhận,anh
+C514,img_029.jpg,Hiệu chuẩn thuộc tính theo định lượng R-01,R-01,v1.1,059,CVAT #1,029 - đã xác nhận,anh
+C515,img_029.jpg,Hiệu chuẩn thuộc tính theo định lượng R-01,R-01,v1.1,059,CVAT #1,029 - đã xác nhận,anh
+C516,img_029.jpg,Hiệu chuẩn thuộc tính theo định lượng R-01,R-01,v1.1,059,CVAT #1,029 - đã xác nhận,anh
+C517,img_029.jpg,Hiệu chuẩn thuộc tính theo định lượng R-01,R-01,v1.1,059,CVAT #1,029 - đã xác nhận,anh
+C518,img_029.jpg,Hiệu chuẩn thuộc tính theo định lượng R-01,R-01,v1.1,059,CVAT #1,029 - đã xác nhận,anh
+C519,img_029.jpg,Hiệu chuẩn thuộc tính theo định lượng R-01,R-01,v1.1,059,CVAT #1,029 - đã xác nhận,anh
+C520,img_030.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C521,img_030.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C522,img_030.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C523,img_030.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C524,img_030.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C525,img_030.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C526,img_030.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C527,img_030.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C528,img_030.jpg,Chuẩn hóa box ôm sát theo R-01,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C529,img_030.jpg,Chuẩn hóa box ôm sát theo R-01,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C530,img_030.jpg,Chuẩn hóa box ôm sát theo R-01,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C531,img_030.jpg,Hiệu chuẩn thuộc tính theo định lượng R-01,R-01,v1.1,059,CVAT #1,029 - đã xác nhận,anh
+C532,img_030.jpg,Hiệu chuẩn thuộc tính theo định lượng R-01,R-01,v1.1,059,CVAT #1,029 - đã xác nhận,anh
+C533,img_030.jpg,Hiệu chuẩn thuộc tính theo định lượng R-01,R-01,v1.1,059,CVAT #1,029 - đã xác nhận,anh
+C534,img_030.jpg,Hiệu chuẩn thuộc tính theo định lượng R-01,R-01,v1.1,059,CVAT #1,029 - đã xác nhận,anh
+C535,img_030.jpg,Hiệu chuẩn thuộc tính theo định lượng R-01,R-01,v1.1,059,CVAT #1,029 - đã xác nhận,anh
+C536,img_030.jpg,Hiệu chuẩn thuộc tính theo định lượng R-01,R-01,v1.1,059,CVAT #1,029 - đã xác nhận,anh
+C537,img_030.jpg,Hiệu chuẩn thuộc tính theo định lượng R-01,R-01,v1.1,059,CVAT #1,029 - đã xác nhận,anh
+C538,img_030.jpg,Hiệu chuẩn thuộc tính theo định lượng R-01,R-01,v1.1,059,CVAT #1,029 - đã xác nhận,anh
+C539,img_030.jpg,Hiệu chuẩn thuộc tính theo định lượng R-01,R-01,v1.1,059,CVAT #1,029 - đã xác nhận,anh
+C540,img_030.jpg,Hiệu chuẩn thuộc tính theo định lượng R-01,R-01,v1.1,059,CVAT #1,029 - đã xác nhận,anh
+C541,img_030.jpg,Hiệu chuẩn thuộc tính theo định lượng R-01,R-01,v1.1,059,CVAT #1,029 - đã xác nhận,anh
+C542,img_030.jpg,Hiệu chuẩn thuộc tính theo định lượng R-01,R-01,v1.1,059,CVAT #1,029 - đã xác nhận,anh
+C543,img_031.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C544,img_031.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C545,img_031.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C546,img_031.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C547,img_031.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C548,img_031.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C549,img_031.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C550,img_031.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C551,img_031.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C552,img_031.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C553,img_031.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C554,img_031.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C555,img_031.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C556,img_031.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C557,img_031.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C558,img_031.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C559,img_031.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C560,img_031.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C561,img_031.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C562,img_031.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C563,img_031.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C564,img_031.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C565,img_031.jpg,Chuẩn hóa box ôm sát theo R-01,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C566,img_031.jpg,Chuẩn hóa box ôm sát theo R-01,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C567,img_031.jpg,Chuẩn hóa box ôm sát theo R-01,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C568,img_031.jpg,Chuẩn hóa box ôm sát theo R-01,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C569,img_031.jpg,Chuẩn hóa box ôm sát theo R-01,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C570,img_031.jpg,Chuẩn hóa box ôm sát theo R-01,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C571,img_031.jpg,Chuẩn hóa box ôm sát theo R-01,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C572,img_031.jpg,Chuẩn hóa box ôm sát theo R-01,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C573,img_031.jpg,Hiệu chuẩn thuộc tính theo định lượng R-01,R-01,v1.1,059,CVAT #1,029 - đã xác nhận,anh
+C574,img_031.jpg,Hiệu chuẩn thuộc tính theo định lượng R-01,R-01,v1.1,059,CVAT #1,029 - đã xác nhận,anh
+C575,img_031.jpg,Hiệu chuẩn thuộc tính theo định lượng R-01,R-01,v1.1,059,CVAT #1,029 - đã xác nhận,anh
+C576,img_031.jpg,Hiệu chuẩn thuộc tính theo định lượng R-01,R-01,v1.1,059,CVAT #1,029 - đã xác nhận,anh
+C577,img_031.jpg,Hiệu chuẩn thuộc tính theo định lượng R-01,R-01,v1.1,059,CVAT #1,029 - đã xác nhận,anh
+C578,img_031.jpg,Hiệu chuẩn thuộc tính theo định lượng R-01,R-01,v1.1,059,CVAT #1,029 - đã xác nhận,anh
+C579,img_032.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C580,img_032.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C581,img_032.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C582,img_032.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C583,img_032.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C584,img_032.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C585,img_032.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C586,img_032.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C587,img_032.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C588,img_032.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C589,img_032.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C590,img_032.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C591,img_032.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C592,img_032.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C593,img_032.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C594,img_032.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C595,img_032.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C596,img_032.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C597,img_032.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C598,img_032.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C599,img_032.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C600,img_032.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C601,img_032.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C602,img_032.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C603,img_032.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C604,img_032.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C605,img_032.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C606,img_032.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C607,img_032.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C608,img_032.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C609,img_032.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C610,img_032.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C611,img_032.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C612,img_032.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C613,img_032.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C614,img_032.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C615,img_032.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C616,img_032.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C617,img_032.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C618,img_032.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C619,img_032.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C620,img_032.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C621,img_032.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C622,img_032.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C623,img_032.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C624,img_032.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C625,img_032.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C626,img_032.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C627,img_032.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C628,img_032.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C629,img_032.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C630,img_032.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C631,img_032.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C632,img_032.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C633,img_032.jpg,Chuẩn hóa box ôm sát theo R-01,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C634,img_032.jpg,Chuẩn hóa box ôm sát theo R-01,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C635,img_032.jpg,Chuẩn hóa box ôm sát theo R-01,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C636,img_032.jpg,Chuẩn hóa box ôm sát theo R-01,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C637,img_032.jpg,Chuẩn hóa box ôm sát theo R-01,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C638,img_032.jpg,Chuẩn hóa box ôm sát theo R-01,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C639,img_032.jpg,Chuẩn hóa box ôm sát theo R-01,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C640,img_032.jpg,Chuẩn hóa box ôm sát theo R-01,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C641,img_032.jpg,Chuẩn hóa box ôm sát theo R-01,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C642,img_032.jpg,Chuẩn hóa box ôm sát theo R-01,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C643,img_032.jpg,Chuẩn hóa box ôm sát theo R-01,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C644,img_032.jpg,Chuẩn hóa box ôm sát theo R-01,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C645,img_032.jpg,Chuẩn hóa box ôm sát theo R-01,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C646,img_032.jpg,Chuẩn hóa box ôm sát theo R-01,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C647,img_032.jpg,Chuẩn hóa box ôm sát theo R-01,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C648,img_032.jpg,Chuẩn hóa box ôm sát theo R-01,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C649,img_032.jpg,Chuẩn hóa box ôm sát theo R-01,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C650,img_032.jpg,Chốt lớp chuẩn theo cấu tạo R-03/R-04,R-03,v1.1,059,CVAT #1,029 - đã xác nhận,anh
+C651,img_032.jpg,Chốt lớp chuẩn theo cấu tạo R-03/R-04,R-03,v1.1,059,CVAT #1,029 - đã xác nhận,anh
+C652,img_032.jpg,Chốt lớp chuẩn theo cấu tạo R-03/R-04,R-03,v1.1,059,CVAT #1,029 - đã xác nhận,anh
+C653,img_032.jpg,Hiệu chuẩn thuộc tính theo định lượng R-01,R-01,v1.1,059,CVAT #1,029 - đã xác nhận,anh
+C654,img_032.jpg,Hiệu chuẩn thuộc tính theo định lượng R-01,R-01,v1.1,059,CVAT #1,029 - đã xác nhận,anh
+C655,img_032.jpg,Hiệu chuẩn thuộc tính theo định lượng R-01,R-01,v1.1,059,CVAT #1,029 - đã xác nhận,anh
+C656,img_032.jpg,Hiệu chuẩn thuộc tính theo định lượng R-01,R-01,v1.1,059,CVAT #1,029 - đã xác nhận,anh
+C657,img_032.jpg,Hiệu chuẩn thuộc tính theo định lượng R-01,R-01,v1.1,059,CVAT #1,029 - đã xác nhận,anh
+C658,img_032.jpg,Hiệu chuẩn thuộc tính theo định lượng R-01,R-01,v1.1,059,CVAT #1,029 - đã xác nhận,anh
+C659,img_034.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C660,img_034.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C661,img_034.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C662,img_034.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C663,img_034.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C664,img_034.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C665,img_034.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C666,img_034.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C667,img_034.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C668,img_034.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C669,img_034.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C670,img_034.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C671,img_034.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C672,img_034.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C673,img_034.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C674,img_034.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C675,img_034.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C676,img_034.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C677,img_034.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C678,img_034.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C679,img_034.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C680,img_034.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C681,img_034.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C682,img_034.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C683,img_034.jpg,Chuẩn hóa box ôm sát theo R-01,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C684,img_034.jpg,Chuẩn hóa box ôm sát theo R-01,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C685,img_034.jpg,Chuẩn hóa box ôm sát theo R-01,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C686,img_034.jpg,Chuẩn hóa box ôm sát theo R-01,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C687,img_034.jpg,Chuẩn hóa box ôm sát theo R-01,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C688,img_034.jpg,Chuẩn hóa box ôm sát theo R-01,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C689,img_034.jpg,Chuẩn hóa box ôm sát theo R-01,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C690,img_034.jpg,Chuẩn hóa box ôm sát theo R-01,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C691,img_034.jpg,Chuẩn hóa box ôm sát theo R-01,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C692,img_034.jpg,Chuẩn hóa box ôm sát theo R-01,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C693,img_034.jpg,Chuẩn hóa box ôm sát theo R-01,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C694,img_034.jpg,Chuẩn hóa box ôm sát theo R-01,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C695,img_034.jpg,Chuẩn hóa box ôm sát theo R-01,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C696,img_034.jpg,Chuẩn hóa box ôm sát theo R-01,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C697,img_034.jpg,Chuẩn hóa box ôm sát theo R-01,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C698,img_034.jpg,Chuẩn hóa box ôm sát theo R-01,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C699,img_034.jpg,Chuẩn hóa box ôm sát theo R-01,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C700,img_034.jpg,Chuẩn hóa box ôm sát theo R-01,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C701,img_034.jpg,Chuẩn hóa box ôm sát theo R-01,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C702,img_034.jpg,Chuẩn hóa box ôm sát theo R-01,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C703,img_034.jpg,Chuẩn hóa box ôm sát theo R-01,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C704,img_034.jpg,Hiệu chuẩn thuộc tính theo định lượng R-01,R-01,v1.1,059,CVAT #1,029 - đã xác nhận,anh
+C705,img_034.jpg,Hiệu chuẩn thuộc tính theo định lượng R-01,R-01,v1.1,059,CVAT #1,029 - đã xác nhận,anh
+C706,img_034.jpg,Hiệu chuẩn thuộc tính theo định lượng R-01,R-01,v1.1,059,CVAT #1,029 - đã xác nhận,anh
+C707,img_035.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C708,img_035.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C709,img_035.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C710,img_035.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C711,img_035.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C712,img_035.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C713,img_035.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C714,img_035.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C715,img_035.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C716,img_035.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C717,img_035.jpg,Chuẩn hóa box ôm sát theo R-01,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C718,img_035.jpg,Chuẩn hóa box ôm sát theo R-01,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C719,img_035.jpg,Chuẩn hóa box ôm sát theo R-01,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C720,img_035.jpg,Chuẩn hóa box ôm sát theo R-01,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C721,img_035.jpg,Chuẩn hóa box ôm sát theo R-01,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C722,img_035.jpg,Chuẩn hóa box ôm sát theo R-01,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C723,img_035.jpg,Chuẩn hóa box ôm sát theo R-01,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C724,img_035.jpg,Chuẩn hóa box ôm sát theo R-01,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C725,img_035.jpg,Chuẩn hóa box ôm sát theo R-01,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C726,img_035.jpg,Chuẩn hóa box ôm sát theo R-01,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C727,img_035.jpg,Chuẩn hóa box ôm sát theo R-01,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C728,img_035.jpg,Hiệu chuẩn thuộc tính theo định lượng R-01,R-01,v1.1,059,CVAT #1,029 - đã xác nhận,anh
+C729,img_035.jpg,Hiệu chuẩn thuộc tính theo định lượng R-01,R-01,v1.1,059,CVAT #1,029 - đã xác nhận,anh
+C730,img_035.jpg,Hiệu chuẩn thuộc tính theo định lượng R-01,R-01,v1.1,059,CVAT #1,029 - đã xác nhận,anh
+C731,img_035.jpg,Hiệu chuẩn thuộc tính theo định lượng R-01,R-01,v1.1,059,CVAT #1,029 - đã xác nhận,anh
+C732,img_035.jpg,Hiệu chuẩn thuộc tính theo định lượng R-01,R-01,v1.1,059,CVAT #1,029 - đã xác nhận,anh
+C733,img_035.jpg,Hiệu chuẩn thuộc tính theo định lượng R-01,R-01,v1.1,059,CVAT #1,029 - đã xác nhận,anh
+C734,img_035.jpg,Hiệu chuẩn thuộc tính theo định lượng R-01,R-01,v1.1,059,CVAT #1,029 - đã xác nhận,anh
+C735,img_035.jpg,Hiệu chuẩn thuộc tính theo định lượng R-01,R-01,v1.1,059,CVAT #1,029 - đã xác nhận,anh
+C736,img_035.jpg,Hiệu chuẩn thuộc tính theo định lượng R-01,R-01,v1.1,059,CVAT #1,029 - đã xác nhận,anh
+C737,img_036.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C738,img_036.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C739,img_036.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C740,img_036.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C741,img_036.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C742,img_036.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C743,img_036.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C744,img_036.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C745,img_036.jpg,Chuẩn hóa box ôm sát theo R-01,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C746,img_036.jpg,Hiệu chuẩn thuộc tính theo định lượng R-01,R-01,v1.1,059,CVAT #1,029 - đã xác nhận,anh
+C747,img_037.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C748,img_037.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C749,img_037.jpg,Chuẩn hóa box ôm sát theo R-01,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C750,img_037.jpg,Chuẩn hóa box ôm sát theo R-01,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C751,img_037.jpg,Hiệu chuẩn thuộc tính theo định lượng R-01,R-01,v1.1,059,CVAT #1,029 - đã xác nhận,anh
+C752,img_037.jpg,Hiệu chuẩn thuộc tính theo định lượng R-01,R-01,v1.1,059,CVAT #1,029 - đã xác nhận,anh
+C753,img_039.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C754,img_039.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C755,img_039.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C756,img_039.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C757,img_039.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C758,img_039.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C759,img_039.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C760,img_039.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C761,img_039.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C762,img_039.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C763,img_039.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C764,img_039.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C765,img_039.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C766,img_039.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C767,img_039.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C768,img_039.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C769,img_039.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C770,img_039.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C771,img_039.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C772,img_039.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C773,img_039.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C774,img_039.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C775,img_039.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C776,img_039.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C777,img_039.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C778,img_039.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C779,img_039.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C780,img_039.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C781,img_039.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C782,img_039.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C783,img_039.jpg,Chuẩn hóa box ôm sát theo R-01,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C784,img_039.jpg,Chuẩn hóa box ôm sát theo R-01,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C785,img_039.jpg,Chuẩn hóa box ôm sát theo R-01,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C786,img_039.jpg,Chuẩn hóa box ôm sát theo R-01,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C787,img_039.jpg,Chuẩn hóa box ôm sát theo R-01,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C788,img_039.jpg,Chuẩn hóa box ôm sát theo R-01,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C789,img_039.jpg,Chuẩn hóa box ôm sát theo R-01,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C790,img_039.jpg,Chuẩn hóa box ôm sát theo R-01,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C791,img_039.jpg,Chuẩn hóa box ôm sát theo R-01,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C792,img_039.jpg,Chuẩn hóa box ôm sát theo R-01,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C793,img_039.jpg,Chuẩn hóa box ôm sát theo R-01,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C794,img_039.jpg,Hiệu chuẩn thuộc tính theo định lượng R-01,R-01,v1.1,059,CVAT #1,029 - đã xác nhận,anh
+C795,img_040.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C796,img_040.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C797,img_040.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C798,img_040.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C799,img_040.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C800,img_040.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C801,img_040.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C802,img_040.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C803,img_040.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C804,img_040.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C805,img_040.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C806,img_040.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C807,img_040.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C808,img_040.jpg,Giữ box theo đồng thuận nhóm,R-01,v1.1,029,CVAT #1,059 - đã xác nhận,anh
+C809,img_040.jpg,Hiệu chuẩn thuộc tính theo định lượng R-01,R-01,v1.1,059,CVAT #1,029 - đã xác nhận,anh
+C810,img_040.jpg,Hiệu chuẩn thuộc tính theo định lượng R-01,R-01,v1.1,059,CVAT #1,029 - đã xác nhận,anh
